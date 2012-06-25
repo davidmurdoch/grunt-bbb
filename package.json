@@ -21,7 +21,7 @@
     "grunt-jasmine-task": "0.2.0",
 
     "requirejs": "2.0.2",
-    "express": "2.5.9"
+    "express": "3.0.0beta3"
   },
   "devDependencies": {
     "grunt": "~0.3.0"
